@@ -1,16 +1,7 @@
 {
-  "latest_version": "2.2.0",
-  "version_name": "Winter Update 2025",
-  "changelog": [
-    "🚀 Improved route finding algorithm with transfer priority",
-    "📍 Background destination tracking with notifications",
-    "🌍 Added support for French language",
-    "🐛 Fixed bugs and improved performance",
-    "✨ New UI improvements and animations"
-  ],
+  "latest_version": "1.0.1",
+  "version_name": "Test Update",
+  "changelog": ["Testing update checker"],
   "download_url": "https://anywheretransit.app",
-  "force_update": false,
-  "min_supported_version": "2.2.0",
-  "release_notes_url": "https://anywheretransit.app/",
-  "release_date": "2025-10-21"
+  "force_update": false
 }
